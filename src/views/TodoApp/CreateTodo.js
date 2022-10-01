@@ -39,7 +39,7 @@ function CreateTodo(props) {
                 }}
             >Add</button>
         </div>
-    )
+    );
 }
 
 export default CreateTodo;
